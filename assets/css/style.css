@@ -274,7 +274,58 @@ to {
     width: 100%;
 }
 
+@media screen and (min-width: 250px) {
 
+    /* For tablets: */
+
+    .col-s-2 {
+        width: 16.66%;
+    }
+
+    .col-s-3 {
+        width: 25%;
+    }
+
+    .col-s-4 {
+        width: 33.33%;
+    }
+
+    .col-s-6 {
+        width: 50%;
+    }
+
+    .col-s-12 {
+        width: 100%;
+    }
+
+    #page-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    #logo-image {
+        background-size: 100%;
+    }
+
+    #quotation {
+        width: 90%;
+        text-align: center;
+    }
+
+    #photos {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    #registration-form {
+        width: 80%;
+    }
+
+    #establish, #empower, #inspire, #wise-man {
+        height: 250px;
+    }
+
+}
 
 
 
