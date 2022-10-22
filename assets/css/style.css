@@ -269,6 +269,13 @@ to {
     background-color: #E6B2A6;
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+
+
+
 
 
 
