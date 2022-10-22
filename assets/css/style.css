@@ -276,7 +276,7 @@ to {
 
 @media screen and (min-width: 250px) {
 
-    /* For tablets: */
+    /* For mobile: */
 
     .col-s-2 {
         width: 16.66%;
@@ -326,6 +326,25 @@ to {
     }
 
 }
+
+@media screen and (min-width: 400px) {
+    #page-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    #quotation {
+        width: 45%;
+        text-align: center;
+    }
+
+    #establish, #empower, #inspire, #wise-man {
+        height: 180px;
+    }
+
+}
+
+
 
 
 
