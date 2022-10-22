@@ -226,6 +226,18 @@ to {
     width: 100%;
 }
 
+/* sign up form */
+
+#form-image {
+    background: url('../image/love-is-love.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    padding: 50px;
+    margin-top: 10px;
+}
+
 
 
 
