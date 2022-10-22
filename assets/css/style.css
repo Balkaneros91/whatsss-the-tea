@@ -180,6 +180,28 @@ to {
     border: 1px solid #2E4756;
 }
 
+/* footer */
+
+#social-media {
+    text-align: center;
+    font-size: 150%;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+#social-media a {
+    color: rgb(240, 237, 230);
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 10px;
+}
+
+#social-media a:hover {
+    color: #E6B2A6;
+}
+
 
 
 
