@@ -66,6 +66,22 @@
     background-size: 100%;
     object-fit: cover;
     margin: 20px 0 10px 0;
+
+    /* inspiration from Love Running */
+/* zoom animation on loading page */
+animation-name: logo-zoom;
+animation-duration: 5s;
+animation-fill-mode: backwards;
+}
+
+/* creates the level of zoom for logo image */
+@keyframes logo-zoom {
+from {
+    transform: scale(1.1);
+}
+to {
+    transform: scale(1);
+}
 }
 
 #quotation {
