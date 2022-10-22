@@ -238,7 +238,36 @@ to {
     margin-top: 10px;
 }
 
+#registration-form {
+    margin-left: 10%;
+}
 
+#form {
+    background-color: rgb(223 193 193 / 85%);
+    padding: 20px;
+}
+
+.txt-input {
+    background: transparent;
+    color: black;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #3a3a3a;
+    border-radius: 2px;
+}
+
+#join-btn {
+    background-color: transparent;
+    border: 2px solid #3a3a3a;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: medium;
+}
+
+#join-btn:hover {
+    background-color: #E6B2A6;
+}
 
 
 
