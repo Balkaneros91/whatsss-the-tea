@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Great+Vibes&display=swap');
 
 * {
-    margin: 0;
-    padding: 0%;
     background-color: lightgreen;
 }
 
@@ -58,6 +56,8 @@
     border-bottom: 1px solid rgb(240, 237, 230);
 }
 
+/* logo image and quotation */
+
 #logo-image {
     height: 450px;
     width: 100%;
@@ -66,6 +66,21 @@
     background-size: 100%;
     object-fit: cover;
     margin: 20px 0 10px 0;
+}
+
+#quotation {
+    font-family: Acme, sans-serif;
+    font-size: 95%;
+    font-style: italic;
+    color: #2E4756;
+    float: right;
+    margin-top: 250px;
+    margin-right: 25px;
+    padding: 15px;
+    background-color: rgb(252 245 227);
+    position: relative;
+    border: 1px solid #2E4756;
+    border-radius: 50px;
 }
 
 
