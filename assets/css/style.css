@@ -83,16 +83,22 @@
     border-radius: 50px;
 }
 
+/* about us */
 
+#main-about, #main-contact {
+    text-align: center;
+}
 
+#about a, #contact a{
+    text-decoration: none;
+}
 
-
-
-
-
-
-
-
+#about h2, #contact h2 {
+    font-family: Acme, sans-serif;    
+    color: rgb(240, 237, 230);    
+    text-decoration:none;
+    text-transform: uppercase;
+}
 
 #establish {
     background-color: #DBC3D0;
@@ -145,6 +151,7 @@
 }
 
 #support > p, #email > p, #date > p, #location > p {
+    font-family: sans-serif;
     font-size: 100%;
     padding: 15px;
 }
