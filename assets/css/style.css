@@ -344,6 +344,60 @@ to {
 
 }
 
+@media screen and (min-width: 920px) {
+
+    /* For desktop: */
+
+    .col-2 {
+        width: 16.66%;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-4 {
+        width: 33.33%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+
+    #photos {
+        column-count: 2;
+        width: 100%;
+    }
+
+    #page-logo {
+        width: 40%;
+    }
+
+    #menu {
+        width: 60%;
+        padding-top: 12px;
+    }
+    
+    #logo-image {
+        height: 600px;
+    }
+
+    #quotation {
+        margin-top: 400px;
+        width: 55%;
+        text-align: center;
+    }
+
+    #form-image {
+        padding: 100px;
+    }
+
+}
+
 
 
 
