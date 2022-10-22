@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Great+Vibes&display=swap');
 
 * {
-    background-color: lightgreen;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2E4756;
 }
 
 /* inspired by w3school */
