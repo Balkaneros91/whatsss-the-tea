@@ -46,3 +46,18 @@ I was inspired by the RuPaul's Drag Race show created by RuPaul Charles who is t
   * [Acknowledgments](#acknowledgments)
 
 ---
+## User Experience (UX)
+
+Visitors looking for a safe place to share their stories and a good laugh should find this website interesting and charming. We are a charitable organization with a goal of sharing information and helping people to get the answers they are looking for or in case  they need even further help pointing them towards the right direction.  
+
+The front page provides the visitor with a short introduction and the events contact and info. Besides that they can visit webites gallery full with lgbtq+ related sharing and caring photos. 
+
+In case you wanna have some fun and share your story proceed to our sign up page. 
+
+The website is viewable from different screen sizes, so every user can browse the site.
+
+
+
+
+
+
