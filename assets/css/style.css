@@ -121,6 +121,34 @@
     padding: 15px;
 }
 
+/* contact and info */
+
+#support {
+    background-color: #E6B2A6;
+    }
+
+#date {
+    background-color: #8C9EAC;
+}
+
+#email {
+    background-color: #3C7A89;
+}
+
+#location {
+    background-color: #DBC3D0;
+}
+
+#support h3, #email h3, #date h3, #location h3 {
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+#support > p, #email > p, #date > p, #location > p {
+    font-size: 100%;
+    padding: 15px;
+}
+
 
 
 
