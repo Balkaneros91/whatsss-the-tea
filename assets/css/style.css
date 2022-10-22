@@ -5,3 +5,17 @@
     padding: 0%;
     background-color: lightgreen;
 }
+
+/* logo */
+
+#page-logo > a {
+    text-decoration: none;
+    color: rgb(240, 237, 230);
+}
+
+#logo {
+    font-family: 'Great Vibes', sans-serif;
+    font-size: 300%;
+    letter-spacing: 4px;
+    margin-left: 10px;
+}
