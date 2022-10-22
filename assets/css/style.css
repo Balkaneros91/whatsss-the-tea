@@ -202,6 +202,17 @@ to {
     color: #E6B2A6;
 }
 
+#copyright {
+    text-align: center;
+}
+
+#copyright p {
+    font-size: small;
+    color: rgb(240, 237, 230);
+}
+
+
+
 
 
 
