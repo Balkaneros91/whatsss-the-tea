@@ -33,6 +33,30 @@
     margin-left: 10px;
 }
 
+/* navigation menu */
+
+#menu {
+    font-size: 200%;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-top: 25px;
+    padding-top: 8px;
+}
+
+#menu a {
+    font-family: Acme, sans-serif;
+    font-size: medium;
+    color: rgb(240, 237, 230);
+    text-decoration: none;
+}
+
+#menu a:hover {
+    color: #E6B2A6;
+}
+
+.active {
+    border-bottom: 1px solid rgb(240, 237, 230);
+}
 
 /* inspired by w3school */
 
