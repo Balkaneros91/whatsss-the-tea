@@ -214,6 +214,20 @@ to {
     color: rgb(240, 237, 230);
 }
 
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-gap: 0;
+}
+
+#photos img {
+    width: 100%;
+}
+
+
+
 
 
 
