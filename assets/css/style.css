@@ -94,6 +94,44 @@
 
 
 
+#establish {
+    background-color: #DBC3D0;
+}
+
+#empower {
+    background-color: #8C9EAC;
+}
+
+#inspire {
+    background-color: #3C7A89;
+}
+
+#wise-man {
+    background-color: #E6B2A6;
+}
+
+#establish h3, #empower h3, #inspire h3, #wise-man h3 {
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+#establish > p, #empower > p, #inspire > p, #wise-man > p {
+    font-family: inherit;
+    font-size: 100%;    
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
