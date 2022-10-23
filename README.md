@@ -189,11 +189,32 @@ I have used Responsinator.com for testing:
 
 No known bugs detected
 
+### Solved Bugs
 
----
----
----
----
+I came accross many issues and bugs while creating this project. As I am a super beginner and I require extra explanation some things as flexbox didn't really make sense until my mentor help me and explained the grid view and saved my first project. I needed a lot of playing around moving code back and forward until it really settled in my head.
+
+
+Some of the bugs I came accross and fixed: 
+
++ Background images
+  + Description: Diffrent size throughout differet screen sizes
+  + Expected behaviour: Full image with no missing sides all the time covering its own content
+  + Actual behaviour: The image was too small or too big or missing a part of it
+  + Fix: Add code background-size: 100%; or background-size: cover; plus adjusting the media queries
+
+  + Quotation
+  + Description: Wrong positioning on the logo image and throughtout different screens changing its place
+  + Expected behaviour: To not disturb nor overflow the logo image
+  + Actual behaviour: Running over the logo image and due to color choice text can't be read
+  + Fix: Adjusting the media queries to different screen sizes
+
++ Footer
+  + Description: Footer wrongly positioned on the small screen
+  + Expected behaviour: Footer at all times should be horizontal
+  + Actual behaviour: Footer vertical positioning on small screen
+  + Fix: Adding the correct class attribute col-s-4.
+
+
 
 ## Credits
 
