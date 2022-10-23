@@ -83,9 +83,21 @@ I used Great Vibes to decorate the website logo, then I used Acme for the quotat
 and sans-serif font.
 
 ---
+### Imagery
+
+Since the organization is all about the lgbtq+ and rainbow I thought that pictures related to that would perfectly fullfill the pages value and message.
+
+### Wireframes
 
 
+text missing.......................
 
+
+![Wireframe Home Page](assets/readme/wireframe-homepage.png)
+![Wireframe Gallery Page](assets/readme/wireframe-gallery.png)
+![Wireframe SignUp Page](assets/readme/wireframe-signup.png)
+
+## Features
 
 
 
