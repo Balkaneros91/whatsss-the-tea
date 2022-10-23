@@ -7,7 +7,7 @@ I was inspired by the RuPaul's Drag Race show created by RuPaul Charles who is t
 ---
 ![amiresponsive](assets/readme/final-amiresponsive.png)
 
-[View live site on Github Pages](https://balkaneros91.github.io/whats-the-tea/)
+[View live site on Github Pages](https://balkaneros91.github.io/whatsss-the-tea/)
 
 ---
 
@@ -150,13 +150,13 @@ For wireframes I have used the programme Balsamic.
 
 ### Deployment
 
-[View live site on Github Pages](https://balkaneros91.github.io/whats-the-tea/)
+[View live site on Github Pages](https://balkaneros91.github.io/whatsss-the-tea/)
 
 ### Local Development
 
 If you wish to clone my project, please see the following steps below:
 
-1. Navigate to Github: https://balkaneros91.github.io/whats-the-tea/
+1. Navigate to Github: https://balkaneros91.github.io/whatsss-the-tea/
 2. Select the 'Clone' button 
 3. Copy the url or download as ZIP file
 4. Use git clone + the url in your terminal, or unpack the ZIP containing the project
