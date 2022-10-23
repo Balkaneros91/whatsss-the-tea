@@ -152,6 +152,43 @@ I have followed CI recommendation and used Github plus Gitpod.
 
 For wireframes I have used the programme Balsamic. 
 
+## Deployment & Local Development
+
+### Deployment
+
+[View live site on Github Pages](https://balkaneros91.github.io/whats-the-tea/)
+
+### Local Development
+
+If you wish to clone my project, please see the following steps below:
+
+1. Navigate to Github: https://balkaneros91.github.io/whats-the-tea/
+2. Select the 'Clone' button 
+3. Copy the url or download as ZIP file
+4. Use git clone + the url in your terminal, or unpack the ZIP containing the project
+
+## Testing
+
+All the links in the navigation bar and in the footer has been tested and works. The logo link always brings us back to the main page, while the About and Contact links are only index.html local links so avoid scrolling up and down on the page. The rest as Gallery and Sign Up links opens a new tab in the browser for easier navigation between pages. And the deployed website has been tested in Chrome, Safari, Internet Explorer (Opera) and Firefox. Media queries looks good and been tested throughout different screen sizes.
+
+I have used Responsinator.com for testing:
+- [responsinator](http://www.responsinator.com/)
+
+
+### Lighthouse
+![Lighthouse](assets/readme/lighthouse-mobile.png)
+![Lighthouse](assets/readme/lighthouse-desktop.png)
+
+### W3C HTML Validator
+![W3C HTML Validator](assets/readme/w3c-validator.jpg)
+
+### W3C CSS Validator
+![W3C CSS Validator](assets/readme/css-validator.png)
+
+### Known bugs
+
+No known bugs detected
+
 
 ---
 ---
