@@ -89,8 +89,10 @@ Since the organization is all about the lgbtq+ and rainbow I thought that pictur
 
 ### Wireframes
 
-
+---
 text missing.......................
+
+---
 
 
 ![Wireframe Home Page](assets/readme/wireframe-homepage.png)
