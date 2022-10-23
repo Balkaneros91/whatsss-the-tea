@@ -5,7 +5,7 @@ What's the Tea? is an idea I came up with just exclusivly for this project. The 
 I was inspired by the RuPaul's Drag Race show created by RuPaul Charles who is the ICON of the LGBTQ+ comunity all over the world. The show has grown a lot and as a member of the LGBTQ+ comunity I wanted to celebrate my pride by creating my first project based on this idea. 
 
 ---
-![amiresponsive](assets/readme/amiresponsive.png)
+![amiresponsive](assets/readme/final-amiresponsive.png)
 
 [View live site on Github Pages](https://balkaneros91.github.io/whats-the-tea/)
 
@@ -177,10 +177,10 @@ For desktop:
 ![Lighthouse](assets/readme/lighthouse-desktop.png)
 
 ### W3C HTML Validator
-![W3C HTML Validator](assets/readme/w3c-validator.jpg)
+![W3C HTML Validator](assets/readme/w3c-markup-validation.png)
 
 ### W3C CSS Validator
-![W3C CSS Validator](assets/readme/css-validator.png)
+![W3C CSS Validator](assets/readme/w3c-css-validation.png)
 
 ### Known bugs
 
