@@ -54,9 +54,8 @@ The front page provides the visitor with a short introduction and the events con
 
 In case you wanna have some fun and share your story proceed to our sign up page. 
 
-The website is viewable from different screen sizes, so every user can browse the site.
+Everyone can enjoy their visit to our website because we have adjusted it and designed for all different screen sizes.
 
----
 ### User Stories
 
 If you visit my website for the very first time I want you to feel welcome and curious. With the funny but still confusing logo I want you to get intrigued and scroll further down to read about us and to get the clear understanding of who we are and what we do.
