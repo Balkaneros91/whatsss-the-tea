@@ -59,6 +59,10 @@ The website is viewable from different screen sizes, so every user can browse th
 ---
 ### User Stories
 
+If you visit my website for the very first time I want you to feel welcome and curious. With the funny but still confusing logo I want you to get intrigued and scroll further down to read about us and to get the clear understanding of who we are and what we do.
+
+In case the home page drawn you attention there is more to see on the following gallery page and for more information feel free to contact us or use or sign up form.
+
 ---
 
 ## Design
@@ -83,17 +87,14 @@ I used Great Vibes to decorate the website logo, then I used Acme for the quotat
 and sans-serif font.
 
 ---
+
 ### Imagery
 
 Since the organization is all about the lgbtq+ and rainbow I thought that pictures related to that would perfectly fullfill the pages value and message.
 
 ### Wireframes
 
----
-text missing.......................
-
----
-
+The Wireframes are created for desktop and mobile view.
 
 ![Wireframe Home Page](assets/readme/wireframe-homepage.png)
 ![Wireframe Gallery Page](assets/readme/wireframe-gallery.png)
@@ -108,7 +109,6 @@ My website is built of 3 pages, index.html as a home page, gallery.html as the g
 ![Home Page](assets/readme/main-page-bttm.png)
 
 ### Final look of the Gallery page
-Because my screen is a little bit bigger I've had to crop the images to get full view. 
 ![Gallery Top](assets/readme/gallery-1.png)
 ![Gallery Middle-2](assets/readme/gallery-2.png)
 ![Gallery Middle-3](assets/readme/gallery-3.png)
@@ -136,8 +136,8 @@ I have  have tried my best to be mindful of accessibility, and the steps I've ta
 
 - Semantic HTML
 - All the links has their aria-labels
-- The color choice and the backgroud images doesn't disturb the content
-- All the images under the gallery site are informativly described 
+- The color choices and the backgroud images doesn't disturb the content
+- All images under the gallery site are informativly described 
 
 
 ## Technologies Used
@@ -172,11 +172,14 @@ If you wish to clone my project, please see the following steps below:
 All the links in the navigation bar and in the footer has been tested and works. The logo link always brings us back to the main page, while the About and Contact links are only index.html local links so avoid scrolling up and down on the page. The rest as Gallery and Sign Up links opens a new tab in the browser for easier navigation between pages. And the deployed website has been tested in Chrome, Safari, Internet Explorer (Opera) and Firefox. Media queries looks good and been tested throughout different screen sizes.
 
 I have used Responsinator.com for testing:
-- [responsinator](http://www.responsinator.com/)
+- [Responsinator](http://www.responsinator.com/)
 
 
 ### Lighthouse
+
+For mobile: 
 ![Lighthouse](assets/readme/lighthouse-mobile.png)
+For desktop: 
 ![Lighthouse](assets/readme/lighthouse-desktop.png)
 
 ### W3C HTML Validator
