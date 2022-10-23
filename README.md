@@ -101,6 +101,96 @@ text missing.......................
 
 ## Features
 
+My website is built of 3 pages, index.html as a home page, gallery.html as the gallery page, and signup.html as the sign up page. 
 
+### Final look of the Home page
+![Home Page](assets/readme/main-page-top.png)
+![Home Page](assets/readme/main-page-bttm.png)
+
+### Final look of the Gallery page
+Because my screen is a little bit bigger I've had to crop the images to get full view. 
+![Gallery Top](assets/readme/gallery-1.png)
+![Gallery Middle-2](assets/readme/gallery-2.png)
+![Gallery Middle-3](assets/readme/gallery-3.png)
+![Gallery Middle-4](assets/readme/gallery-4.png)
+![Gallery Bottom](assets/readme/gallery-5.png)
+
+### Final look of the Contact page
+![Sign Up Page](assets/readme/sign-up-form.png)
+## Footer
+![Footer](assets/readme/footer.png)
+
+### General features on each page
+
+The navigation menu and footer is continiously the same throughout all three pages of my website.
+
+### Future Implementations
+
+This page has a potential to grow even further more by adding more content to it plus images for to spice it up and space it into bigger website.
+
+In the future this event could from being a place to feel safe and funny implement even bigger shows as talkshows and dragshows. But one step at the time.
+
+### Accessibility
+
+I have  have tried my best to be mindful of accessibility, and the steps I've taken for this are the following:
+
+- Semantic HTML
+- All the links has their aria-labels
+- The color choice and the backgroud images doesn't disturb the content
+- All the images under the gallery site are informativly described 
+
+
+## Technologies Used
+
+### Languages Used
+
+HTML & CSS.
+
+### Frameworks, Libraries & Programs Used
+
+I have followed CI recommendation and used Github plus Gitpod.
+
+For wireframes I have used the programme Balsamic. 
+
+
+---
+---
+---
+---
+
+## Credits
+
+Code Institue projects: Coders Coffehouse and Love Running has been the inspiration for my websites design.
+The help I've used with syntax and formatting, please see links and description below.
+
+### Code Used
+
+- [w3schools](https://www.w3schools.com/)
+- [How to position text above an image](https://www.w3schools.com/HOWTO/howto_css_image_text.asp)
+- [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
+- [Grid-View](https://www.w3schools.com/css/css_rwd_grid.asp)
+- [emmet.io](https://docs.emmet.io/cheat-sheet/)
+
+
+### Content
+
+The code is mostly created by me and I was inspired by some of the contect in the above mentioned section, Code Used plus by the code watched on LSM in CI projects.
+
+###  Media
+
+All images are downloaded from
+[Unsplash](https://unsplash.com/) and
+[Pexels](https://www.pexels.com/sv-se/) plus
+and I used private pictures.
+  
+###  Acknowledgments
+
+And last but not least a big thanks and loads of kudos to those who has in some way helped me so I could complete my first project:  
+
+- Nedicto Entenza Gutierrez, my husband.
+- Antonio Rodriguez, my mentor at Code Institute.
+- Sawyer, our cooridinator and mental column.
+- Gemma our lovely tutor at Code Institute.
+- Kera Cudmore, for the README webinar and this README template.
 
 
