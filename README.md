@@ -188,8 +188,9 @@ No known bugs detected
 
 ### Solved Bugs
 
-I came accross many issues and bugs while creating this project. As I am a super beginner and I require extra explanation some things as flexbox didn't really make sense until my mentor help me and explained the grid view and saved my first project. I needed a lot of playing around moving code back and forward until it really settled in my head.
+I came accross many issues and bugs while creating this project. Understanding of flexbox didn't really workout. During the 2nd mentor meeting Antonio Rodriguez introduced me and explained the grid view which saved my first project. I needed a lot of playing around, moving code back and forward until it really settled in my head.
 
+He mentioned that it would be good to add a comment that due to changes and extra time I needed to put all the code together I had to create a new repository and that is why all the commits came in within few hours because I had to migrate everything from one repo to a new one.
 
 Some of the bugs I came accross and fixed: 
 
