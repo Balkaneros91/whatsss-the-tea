@@ -46,6 +46,7 @@ I was inspired by the RuPaul's Drag Race show created by RuPaul Charles who is t
   * [Acknowledgments](#acknowledgments)
 
 ---
+
 ## User Experience (UX)
 
 Visitors looking for a safe place to share their stories and a good laugh should find this website interesting and charming. We are a charitable organization with a goal of sharing information and helping people to get the answers they are looking for or in case  they need even further help pointing them towards the right direction.  
@@ -62,8 +63,6 @@ If you visit my website for the very first time I want you to feel welcome and c
 
 In case the home page drawn you attention there is more to see on the following gallery page and for more information feel free to contact us or use or sign up form.
 
----
-
 ## Design
 
 ### Colour Scheme
@@ -74,7 +73,6 @@ I wanted my page to be colorful but in a appropriate way so I fetched as friendl
 
 ![Colour Palette](assets/readme/coolors-palette.png)
 
----
 ### Typography
 
 It was hard to find a perfectly matching fonts, and now I sound totally like a beginner, which looked good and readable. Finally I picked Great Vibes, Acme and for the rest I thought it looks the best with sans-serif.
@@ -83,9 +81,6 @@ I used Great Vibes to decorate the website logo, then I used Acme for the quotat
 
 ![Typography](assets/readme/great-vibes-font.png)
 ![Typography](assets/readme/acme-font.png)
-and sans-serif font.
-
----
 
 ### Imagery
 
