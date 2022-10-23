@@ -56,6 +56,24 @@ In case you wanna have some fun and share your story proceed to our sign up page
 
 The website is viewable from different screen sizes, so every user can browse the site.
 
+---
+### User Stories
+
+---
+
+## Design
+
+### Colour Scheme
+
+I wanted my page to be colorful but in a appropriate way so I fetched as friendly as possible for eyes color palette based off of the hero image, which I thought would be a well suited color scheme for the full website. 
+
+[Coolors.co](https://coolors.co/) was the website I've used to fetch the colour palette presented.
+
+![Colour Palette](assets/readme/coolors-palette.png)
+
+---
+
+
 
 
 
